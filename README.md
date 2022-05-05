@@ -27,7 +27,7 @@ In this notebook, I am getting familiar with the data using data exploration and
 **Notebook goal:Find the most predictive features of the data and filter it so it will enhance the predictive power of the analytics model.**
 In this notebook I use feature selection to reduce high-dimension data, feature extraction and transformation for dimensionality reduction. This is essential in preparing the data before predictive models are developed.
 ### [Notebook 4](https://github.com/ShiroJean/Breast-cancer-risk-prediction/blob/master/NB4_PredictiveModelUsingSVM.ipynb) Predictive model using Support Vector Machine (svm)
-**Notebook goal: Construct predictive models to predict the diagnosis of a breast tumor.** 
+**Notebook goal: Construct predictive models to predict the diagnosis of a breast tumor.**  
 In this notebook, I construct a predictive model using SVM machine learning algorithm to predict the diagnosis of a breast tumor. The diagnosis of a breast tumor is a binary variable (benign or malignant). I also evaluate the model using confusion matrix the receiver operating curves (ROC), which are essential in assessing and interpreting the fitted model.
 
 ### [Notebook 5](https://github.com/ShiroJean/Breast-cancer-risk-prediction/blob/master/NB_5%20OptimizingSVMClassifier.ipynb): Optimizing the  Support Vector Classifier
